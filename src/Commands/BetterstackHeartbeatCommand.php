@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Pforret\BetterstackHeartbeat\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class BetterstackHeartbeatCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'betterstack-heartbeat';
 
     public $description = 'My command';
 
